@@ -11,8 +11,8 @@ The goal of this project is to practice **React fundamentals**, **component-base
  Horizontal scrolling rows (like Netflix)
  Banner section for featured content
  Fully responsive design
+ Fast rendering using React components
  Clean and reusable code structure
-
 ---
 
 ## 🛠️ Tech Stack
