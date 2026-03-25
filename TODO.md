@@ -28,3 +28,5 @@ export default function frequency() {}
 7. Also learn the difference between default export when and where is it used and refactor the changes accordingly
 8. Fix your component naming the component name Frequency doesnt match or explain what the component does also make sure the file name and the component name should mathc here you have a `footer.jsx` but it exports a component `frequency` similarly component `homebanner` should be `homepageBanner` be a little verbose with your variable naming
 9. For the icons we usually use `lucide-react` generally so update that as well
+10. Install the vscode extension for eslint
+11. install vscode extension for prettier and update vscode settings (default formatter -> select prettier)
