@@ -5,15 +5,16 @@ This project is a **Netflix Landing Page clone** built using **React.js**. It re
 
 The goal of this project is to practice **React fundamentals**, **component-based architecture**, and **modern UI design using Tailwind CSS**.
 
---- Features
- Modern Netflix-style UI
- Movie/TV show cards display
- Horizontal scrolling rows (like Netflix)
- Banner section for featured content
- Fully responsive design
- Fast rendering using React components
- Clean and reusable code structure
----
+Features
+
+ Modern Netflix-style UI,
+ Movie/TV show cards display,
+ Horizontal scrolling rows (like Netflix),
+ Banner section for featured content,
+ Fully responsive design,
+ Fast rendering using React components,
+ Clean and reusable code structure.
+
 
 ## 🛠️ Tech Stack
 
