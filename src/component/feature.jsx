@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import { useRef } from "react";
 const movies = [
   {
     id: 1,
@@ -80,7 +80,7 @@ function feature() {
                 className="relative group w-[180px] h-[270px] md:w-[220px] md:h-[320px] flex-shrink-0"
               >
                 <span
-                  className="absolute left-[-4px] bottom-0 text-[120px] font-extrabold z-20 
+                  className="absolute left-[-4px] bottom-0 text-[120px] font-extrabold z-20
                     text-black
                     transition-all duration-300 group-hover:scale-110"
                   style={{
@@ -93,7 +93,7 @@ function feature() {
                 <img
                   src={movie.img}
                   alt="movie"
-                  className="w-full h-full object-cover rounded-lg relative z-10 
+                  className="w-full h-full object-cover rounded-lg relative z-10
                     transition duration-300 group-hover:scale-105"
                 />
               </div>
